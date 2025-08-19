@@ -7,4 +7,4 @@ Features
 -	🟢 Lightweight — minimal, fast, no bloat.
 -	📝 Dynamic validation — validate forms as users type.
 -	🧩 Templating — render HTML dynamically in the browser.
--	🦴 Inspired by Backbone.js — but Dart-native.
+-	🦴 Inspired by Backbone.js & Handlebars.js — but Dart-native.

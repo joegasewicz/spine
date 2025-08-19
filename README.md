@@ -6,4 +6,5 @@ Give your Dart apps structure in the browser with dynamic HTML rendering and rea
 Features
 -	🟢 Lightweight — minimal, fast, no bloat.
 -	📝 Dynamic validation — validate forms as users type.
+-	🧩 Templating — render HTML dynamically in the browser.
 -	🦴 Inspired by Backbone.js — but Dart-native.
